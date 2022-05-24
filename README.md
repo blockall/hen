@@ -1,6 +1,5 @@
 # sites
 
-- <https://theindex.moe/>
 - <https://koushoku.org/>
 - <http://nhentai.net/>
 - <https://wholesomelist.com/>
@@ -12,6 +11,7 @@
 
 # lists
 
+- <https://theindex.moe/>
 - <https://github.com/pctechkid/LIST-OF-USEFUL-SITES/blob/367c2641fa55e1b626a6c1411ad33ae0a2f60424/hemtai.md>
 - <https://github.com/pctechkid/LIST-OF-USEFUL-SITES/blob/367c2641fa55e1b626a6c1411ad33ae0a2f60424/Pornhwa.md>
 - <https://github.com/SpamVerse/Piratezparty>
