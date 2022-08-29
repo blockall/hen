@@ -1,9 +1,11 @@
 # sites
 
 - <https://koushoku.org/>
+- <https://nana.my.id>
 - <http://nhentai.net/>
 - <https://wholesomelist.com/>
 - <https://wholesomelist.com/api>
+- <https://sukebei.nyaa.si>
 
 # apps
 
