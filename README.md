@@ -6,6 +6,7 @@
 - <https://wholesomelist.com/>
 - <https://wholesomelist.com/api>
 - <https://sukebei.nyaa.si>
+- [https://www.tsumino.com/](https://www.tsumino.com/#~(MinimumRating~4~Include~(~))#)
 
 # apps
 
