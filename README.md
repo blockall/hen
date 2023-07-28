@@ -1,6 +1,6 @@
 # sites
 
-- <https://koushoku.org/>
+- <https://koushoku.org/> <https://ksk.moe/>
 - <https://nana.my.id>
 - <http://nhentai.net/>
 - <https://wholesomelist.com/>
